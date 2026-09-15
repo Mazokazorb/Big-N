@@ -1,0 +1,1658 @@
+.
+├── Arcade - Mame 2003 Plus
+│   ├── 1941.zip
+│   ├── 1942.zip
+│   ├── 1943kai.zip
+│   ├── 1943.zip
+│   ├── 1944.zip
+│   ├── 19xx.zip
+│   ├── 3wonderu.zip
+│   ├── 720.zip
+│   ├── aburner2.zip
+│   ├── aburner.zip
+│   ├── actfancr.zip
+│   ├── aerofgt.zip
+│   ├── airwolf.zip
+│   ├── aliensu.zip
+│   ├── aliensyn.zip
+│   ├── aligatun.zip
+│   ├── altbeast.zip
+│   ├── amidar.zip
+│   ├── aquajack.zip
+│   ├── arknoid2.zip
+│   ├── arknoidu.zip
+│   ├── armwaru.zip
+│   ├── asterix.zip
+│   ├── asteroid.zip
+│   ├── astormbl.zip
+│   ├── atetris.zip
+│   ├── avspirit.zip
+│   ├── avspu.zip
+│   ├── baddudes.zip
+│   ├── bankp.zip
+│   ├── batcir.zip
+│   ├── batman.zip
+│   ├── batrider.zip
+│   ├── bbros.zip
+│   ├── berzerk1.zip
+│   ├── biomtoy.zip
+│   ├── bionicc.zip
+│   ├── bios.zip
+│   ├── blktiger.zip
+│   ├── blstroid.zip
+│   ├── blswhstl.zip
+│   ├── bnj.zip
+│   ├── bogeyman.zip
+│   ├── bombjack.zip
+│   ├── boogwing.zip
+│   ├── bosco.zip
+│   ├── btime.zip
+│   ├── btoads.zip
+│   ├── bubbles.zip
+│   ├── bubbobr1.zip
+│   ├── bubsympu.zip
+│   ├── buckrog.zip
+│   ├── buckyua.zip
+│   ├── bwidow.zip
+│   ├── bzone.zip
+│   ├── cabal.zip
+│   ├── candance.zip
+│   ├── captavnu.zip
+│   ├── captcomu.zip
+│   ├── cawingu.zip
+│   ├── cbuster.zip
+│   ├── ccastles.zip
+│   ├── cclimber.zip
+│   ├── centtime.zip
+│   ├── chasehq.zip
+│   ├── chinagat.zip
+│   ├── chplftb.zip
+│   ├── circusc.zip
+│   ├── citycon.zip
+│   ├── columns.zip
+│   ├── commandu.zip
+│   ├── congo.zip
+│   ├── contra.zip
+│   ├── crimfgt2.zip
+│   ├── ctribe.zip
+│   ├── cybots.zip
+│   ├── cyvern.zip
+│   ├── darkseal.zip
+│   ├── dassault.zip
+│   ├── dbreed.zip
+│   ├── ddcrew.zip
+│   ├── ddragn2u.zip
+│   ├── ddragonu.zip
+│   ├── ddsomu.zip
+│   ├── ddtodu.zip
+│   ├── deadconx.zip
+│   ├── defendg.zip
+│   ├── digdug2.zip
+│   ├── digdug.zip
+│   ├── dimahoo.zip
+│   ├── dinou.zip
+│   ├── dkong3.zip
+│   ├── dkongjr.zip
+│   ├── dkongo.zip
+│   ├── docastle.zip
+│   ├── dogyuun.zip
+│   ├── dondokod.zip
+│   ├── donpachi.zip
+│   ├── drtoppel.zip
+│   ├── dsaber.zip
+│   ├── dstlku.zip
+│   ├── dw.zip
+│   ├── ecofghtr.zip
+│   ├── edrandy.zip
+│   ├── elevator.zip
+│   ├── elvactr.zip
+│   ├── endurobl.zip
+│   ├── exedexes.zip
+│   ├── fantzn2.zip
+│   ├── fantzone.zip
+│   ├── ffightu.zip
+│   ├── flicky.zip
+│   ├── foodf.zip
+│   ├── forgottn.zip
+│   ├── frogger.zip
+│   ├── funkyjet.zip
+│   ├── ga2.zip
+│   ├── gaiden.zip
+│   ├── galaga88.zip
+│   ├── galaga.zip
+│   ├── galaxian.zip
+│   ├── galmedes.zip
+│   ├── gangwars.zip
+│   ├── gaplus.zip
+│   ├── gaunt22p.zip
+│   ├── gaunt2p.zip
+│   ├── ghostb.zip
+│   ├── ghoulsu.zip
+│   ├── gigawing.zip
+│   ├── gijoeu.zip
+│   ├── gnbarich.zip
+│   ├── gngt.zip
+│   ├── godzilla.zip
+│   ├── goldnaxe.zip
+│   ├── gorf.zip
+│   ├── gradius2.zip
+│   ├── gradius.zip
+│   ├── grdians.zip
+│   ├── grdius3e.zip
+│   ├── growlu.zip
+│   ├── gtmr2.zip
+│   ├── gunbird2.zip
+│   ├── gunforc2.zip
+│   ├── gunlock.zip
+│   ├── gunnail.zip
+│   ├── gunsmoku.zip
+│   ├── guwange.zip
+│   ├── gyruss.zip
+│   ├── hangon.zip
+│   ├── hattrick.zip
+│   ├── heatbrlu.zip
+│   ├── hharryu.zip
+│   ├── hitice.zip
+│   ├── hooku.zip
+│   ├── horizon.zip
+│   ├── hvysmsh.zip
+│   ├── ikari3nr.zip
+│   ├── ikarijpb.zip
+│   ├── imgfight.zip
+│   ├── inthunt.zip
+│   ├── invaders.zip
+│   ├── irobot.zip
+│   ├── jailbrek.zip
+│   ├── journey.zip
+│   ├── joust.zip
+│   ├── jungleh.zip
+│   ├── junofrst.zip
+│   ├── kangaroo.zip
+│   ├── karnov.zip
+│   ├── kchamp.zip
+│   ├── kick.zip
+│   ├── klax.zip
+│   ├── knightsu.zip
+│   ├── kodu.zip
+│   ├── kungfum.zip
+│   ├── landmkrp.zip
+│   ├── ldrun2.zip
+│   ├── ldrun4.zip
+│   ├── ldrun.zip
+│   ├── lethalth.zip
+│   ├── lifefrce.zip
+│   ├── lightbr.zip
+│   ├── liquidk.zip
+│   ├── lkage.zip
+│   ├── llander.zip
+│   ├── loderndf.zip
+│   ├── loht.zip
+│   ├── looping.zip
+│   ├── lwings.zip
+│   ├── macross2.zip
+│   ├── macrossp.zip
+│   ├── macross.zip
+│   ├── mainev2p.zip
+│   ├── mappy.zip
+│   ├── marble.zip
+│   ├── mario.zip
+│   ├── mazinger.zip
+│   ├── mbombrd.zip
+│   ├── megaman2.zip
+│   ├── mercs.zip
+│   ├── metamrph.zip
+│   ├── metmqstr.zip
+│   ├── mgcrystl.zip
+│   ├── mhavoc.zip
+│   ├── milliped.zip
+│   ├── missile.zip
+│   ├── mk2.zip
+│   ├── mk3.zip
+│   ├── mk.zip
+│   ├── mmatrix.zip
+│   ├── monsterb.zip
+│   ├── moonwlkb.zip
+│   ├── mooua.zip
+│   ├── mpatrol.zip
+│   ├── mrdo.zip
+│   ├── mshvsfj.zip
+│   ├── mspacman.zip
+│   ├── mswordu.zip
+│   ├── mtwins.zip
+│   ├── mvsc.zip
+│   ├── mystwaru.zip
+│   ├── narc.zip
+│   ├── nbajamte.zip
+│   ├── nbajam.zip
+│   ├── nbbatman.zip
+│   ├── nemo.zip
+│   ├── nibbler.zip
+│   ├── ninjakd2.zip
+│   ├── ninjak.zip
+│   ├── nitrobal.zip
+│   ├── noboranb.zip
+│   ├── nrallyx.zip
+│   ├── nslasher.zip
+│   ├── nspirit.zip
+│   ├── nwarr.zip
+│   ├── offroad.zip
+│   ├── outfxies.zip
+│   ├── outrunb.zip
+│   ├── outzone.zip
+│   ├── pacland.zip
+│   ├── pacman.zip
+│   ├── pang3.zip
+│   ├── paperboy.zip
+│   ├── parodius.zip
+│   ├── pengo.zip
+│   ├── peterpak.zip
+│   ├── phoenix.zip
+│   ├── pipedrm.zip
+│   ├── pitfight.zip
+│   ├── polepos2.zip
+│   ├── polepos.zip
+│   ├── pooyan.zip
+│   ├── popeyef.zip
+│   ├── pow.zip
+│   ├── progear.zip
+│   ├── punchout.zip
+│   ├── punishru.zip
+│   ├── punksht2.zip
+│   ├── puyopuy2.zip
+│   ├── puyopuya.zip
+│   ├── puzloopu.zip
+│   ├── qbert.zip
+│   ├── qix.zip
+│   ├── rallyx.zip
+│   ├── rampage.zip
+│   ├── ramprt2p.zip
+│   ├── rastanu.zip
+│   ├── renegade.zip
+│   ├── ringdest.zip
+│   ├── ringking.zip
+│   ├── robocop.zip
+│   ├── robocp2u.zip
+│   ├── robotron.zip
+│   ├── rocnrope.zip
+│   ├── rohgau.zip
+│   ├── rthun2.zip
+│   ├── rthunder.zip
+│   ├── rtype2.zip
+│   ├── rtypeleo.zip
+│   ├── rtypeu.zip
+│   ├── rushatck.zip
+│   ├── rygar.zip
+│   ├── s1945iii.zip
+│   ├── s1945ii.zip
+│   ├── s1945.zip
+│   ├── samuraia.zip
+│   ├── scontra.zip
+│   ├── seawolf.zip
+│   ├── seganinu.zip
+│   ├── sf1us.zip
+│   ├── sf2t.zip
+│   ├── sf2.zip
+│   ├── sfa2.zip
+│   ├── sfa3.zip
+│   ├── sgemf.zip
+│   ├── shadfrce.zip
+│   ├── shangonb.zip
+│   ├── shaolins.zip
+│   ├── sharrier.zip
+│   ├── shdancer.zip
+│   ├── shinobi.zip
+│   ├── shollow.zip
+│   ├── sidearmr.zip
+│   ├── simpsn2p.zip
+│   ├── sinistar.zip
+│   ├── slammasu.zip
+│   ├── slyspy.zip
+│   ├── smashtv.zip
+│   ├── snowbrob.zip
+│   ├── solomon.zip
+│   ├── sonic.zip
+│   ├── sonson.zip
+│   ├── spf2t.zip
+│   ├── spidey.zip
+│   ├── splatter.zip
+│   ├── spnchout.zip
+│   ├── spyhunt.zip
+│   ├── ssf2t.zip
+│   ├── ssprint.zip
+│   ├── ssrdrubc.zip
+│   ├── starcas.zip
+│   ├── starwars.zip
+│   ├── stdragon.zip
+│   ├── stmblade.zip
+│   ├── strider.zip
+│   ├── superman.zip
+│   ├── superpac.zip
+│   ├── tapper.zip
+│   ├── tekken2.zip
+│   ├── tekken3.zip
+│   ├── tekken.zip
+│   ├── tempest.zip
+│   ├── thndrbdj.zip
+│   ├── tigeroad.zip
+│   ├── timeplt.zip
+│   ├── tmnt22p.zip
+│   ├── tmnt2po.zip
+│   ├── tnzsb.zip
+│   ├── tokiu.zip
+│   ├── toobin.zip
+│   ├── trackfld.zip
+│   ├── trojan.zip
+│   ├── tron.zip
+│   ├── truxton2.zip
+│   ├── tumblep.zip
+│   ├── typhoon.zip
+│   ├── uccops.zip
+│   ├── umk3.zip
+│   ├── unsquad.zip
+│   ├── upndown.zip
+│   ├── valkyrie.zip
+│   ├── varthu.zip
+│   ├── vball.zip
+│   ├── vendet2p.zip
+│   ├── vf.zip
+│   ├── vigilntu.zip
+│   ├── viostorm.zip
+│   ├── volfied.zip
+│   ├── vsav2.zip
+│   ├── vsavu.zip
+│   ├── wb3.zip
+│   ├── wbmlb.zip
+│   ├── wboyu.zip
+│   ├── wildfang.zip
+│   ├── willow.zip
+│   ├── wofu.zip
+│   ├── wow.zip
+│   ├── xevious.zip
+│   ├── xexex.zip
+│   ├── xmcotau.zip
+│   ├── xmen2p.zip
+│   ├── xmultipl.zip
+│   ├── xmvsfur1.zip
+│   ├── zaxxon.zip
+│   ├── zerowing.zip
+│   └── zookeep.zip
+├── Final Burn Neo
+│   ├── 2020bb.zip
+│   ├── 3countb.zip
+│   ├── aes.zip
+│   ├── alpham2.zip
+│   ├── androdun.zip
+│   ├── aodk.zip
+│   ├── aof2.zip
+│   ├── aof3.zip
+│   ├── aof.zip
+│   ├── b2b.zip
+│   ├── bakatono.zip
+│   ├── bangbead.zip
+│   ├── bjourney.zip
+│   ├── blazstar.zip
+│   ├── breakers.zip
+│   ├── breakrev.zip
+│   ├── bstars2.zip
+│   ├── bstars.zip
+│   ├── burningf.zip
+│   ├── cnbe.zip
+│   ├── columnsn.zip
+│   ├── crswd2bl.zip
+│   ├── crsword.zip
+│   ├── ctomaday.zip
+│   ├── cyberlip.zip
+│   ├── diggerma.zip
+│   ├── doubledr.zip
+│   ├── eightman.zip
+│   ├── fatfursp.zip
+│   ├── fatfury1.zip
+│   ├── fatfury2.zip
+│   ├── fatfury3.zip
+│   ├── fbfrenzy.zip
+│   ├── fightfev.zip
+│   ├── flipshot.zip
+│   ├── froman2b.zip
+│   ├── galaxyfg.zip
+│   ├── ganryu.zip
+│   ├── garou.zip
+│   ├── ghostlop.zip
+│   ├── goalx3.zip
+│   ├── gowcaizr.zip
+│   ├── gpilots.zip
+│   ├── gururin.zip
+│   ├── ironclad.zip
+│   ├── irrmaze.zip
+│   ├── janshin.zip
+│   ├── jockeygp.zip
+│   ├── joyjoy.zip
+│   ├── kabukikl.zip
+│   ├── karnovr.zip
+│   ├── kizuna.zip
+│   ├── kof2000.zip
+│   ├── kof2001.zip
+│   ├── kof2002.zip
+│   ├── kof2003.zip
+│   ├── kof94.zip
+│   ├── kof95.zip
+│   ├── kof96.zip
+│   ├── kof97.zip
+│   ├── kof98.zip
+│   ├── kof99.zip
+│   ├── kotm2.zip
+│   ├── kotm.zip
+│   ├── lastblad.zip
+│   ├── lastbld2.zip
+│   ├── lasthope.zip
+│   ├── lbowling.zip
+│   ├── legendos.zip
+│   ├── lresort.zip
+│   ├── ltorb1.zip
+│   ├── magdrop3.zip
+│   ├── maglord.zip
+│   ├── mahretsu.zip
+│   ├── marukodq.zip
+│   ├── miexchng.zip
+│   ├── minasan.zip
+│   ├── moshougi.zip
+│   ├── mslug2.zip
+│   ├── mslug3.zip
+│   ├── mslug4.zip
+│   ├── mslug5.zip
+│   ├── mslugx.zip
+│   ├── mslug.zip
+│   ├── mutnat.zip
+│   ├── nam1975.zip
+│   ├── ncombat.zip
+│   ├── ncommand.zip
+│   ├── neobombe.zip
+│   ├── neocup98.zip
+│   ├── neodrift.zip
+│   ├── neogeo.zip
+│   ├── neomrdo.zip
+│   ├── neonopon.zip
+│   ├── neopong.zip
+│   ├── neotet.zip
+│   ├── neothndr.zip
+│   ├── ngem2k.zip
+│   ├── ngfrog.zip
+│   ├── ninjamas.zip
+│   ├── nitd.zip
+│   ├── overtop.zip
+│   ├── panicbom.zip
+│   ├── pbobbl2n.zip
+│   ├── pbobblen.zip
+│   ├── pgoal.zip
+│   ├── pnyaa.zip
+│   ├── poknight.zip
+│   ├── popbounc.zip
+│   ├── powerins.zip
+│   ├── preisle2.zip
+│   ├── pspikes2.zip
+│   ├── pulstar.zip
+│   ├── puzzldpr.zip
+│   ├── puzzledp.zip
+│   ├── quizdai2.zip
+│   ├── quizdais.zip
+│   ├── quizkof.zip
+│   ├── ragnagrd.zip
+│   ├── rbff1.zip
+│   ├── rbff2.zip
+│   ├── rbffspec.zip
+│   ├── ridhero.zip
+│   ├── roboarmy.zip
+│   ├── rotd.zip
+│   ├── s1945p.zip
+│   ├── samsh5sp.zip
+│   ├── samsho2.zip
+│   ├── samsho3.zip
+│   ├── samsho4.zip
+│   ├── samsho5.zip
+│   ├── samsho.zip
+│   ├── savagere.zip
+│   ├── sdodgeb.zip
+│   ├── sengoku2.zip
+│   ├── sengoku3.zip
+│   ├── sengoku.zip
+│   ├── shocktr2.zip
+│   ├── shocktro.zip
+│   ├── socbrawl.zip
+│   ├── sonicwi2.zip
+│   ├── sonicwi3.zip
+│   ├── spinmast.zip
+│   ├── ssideki2.zip
+│   ├── ssideki3.zip
+│   ├── ssideki4.zip
+│   ├── ssideki.zip
+│   ├── stakwin2.zip
+│   ├── stakwin.zip
+│   ├── strhoop.zip
+│   ├── superspy.zip
+│   ├── svc.zip
+│   ├── tophuntr.zip
+│   ├── totc.zip
+│   ├── tpgolf.zip
+│   ├── trally.zip
+│   ├── turfmast.zip
+│   ├── twinspri.zip
+│   ├── twsoc96.zip
+│   ├── viewpoin.zip
+│   ├── vliner.zip
+│   ├── wakuwak7.zip
+│   ├── wh1.zip
+│   ├── wh2j.zip
+│   ├── wh2.zip
+│   ├── whp.zip
+│   ├── wjammers.zip
+│   ├── zedblade.zip
+│   ├── zintrckb.zip
+│   └── zupapa.zip
+├── lista completa.txt
+├── Nintendo - Game Boy
+│   ├── Adventures of Star Saver, The (USA, Europe).zip
+│   ├── Aerostar (USA, Europe).zip
+│   ├── Amazing Penguin (USA, Europe).zip
+│   ├── Astro Rabby (Japan).zip
+│   ├── Atomic Punk (USA).zip
+│   ├── Avenging Spirit (USA, Europe).zip
+│   ├── Balloon Kid (USA, Europe).zip
+│   ├── Batman - Return of the Joker (USA, Europe).zip
+│   ├── Batman - The Video Game (World).zip
+│   ├── Battle Arena Toshinden (USA) (SGB Enhanced).zip
+│   ├── Battle Unit Zeoth (USA, Europe).zip
+│   ├── Bionic Commando (USA).zip
+│   ├── Blaster Master Boy (USA).zip
+│   ├── Booby Boys (Japan) [T-En by HTI v1.00].zip
+│   ├── Boxxle II (USA, Europe).zip
+│   ├── Boxxle (USA, Europe) (Rev 1).zip
+│   ├── Bubble Ghost (USA, Europe).zip
+│   ├── Bugs Bunny Crazy Castle 2, The (USA).zip
+│   ├── Bugs Bunny Crazy Castle, The (USA, Europe).zip
+│   ├── Castlevania II - Belmont's Revenge (USA, Europe).zip
+│   ├── Castlevania Legends (USA, Europe) (SGB Enhanced).zip
+│   ├── Castlevania - The Adventure (USA).zip
+│   ├── Catrap (USA).zip
+│   ├── Cave Noire (Japan) [T-En by Aeon Genesis v1.00].zip
+│   ├── Chalvo 55 - Super Puzzle Action (Japan) [T-En by Lame Boy v1.0].zip
+│   ├── Contra - The Alien Wars (USA) (SGB Enhanced).zip
+│   ├── Cosmo Tank (USA).zip
+│   ├── Darkwing Duck (USA).zip
+│   ├── Dead Heat Scramble (USA).zip
+│   ├── Dexterity (USA, Europe).zip
+│   ├── Donkey Kong (Japan, USA) (SGB Enhanced).zip
+│   ├── Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).zip
+│   ├── Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced).zip
+│   ├── Donkey Kong Land (USA, Europe) (SGB Enhanced).zip
+│   ├── DragonHeart (USA, Europe).zip
+│   ├── Dr. Franken II (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).zip
+│   ├── Dr. Franken (USA).zip
+│   ├── Dr. Mario (World) (Rev 1).zip
+│   ├── Dropzone (Europe).zip
+│   ├── DuckTales 2 (USA).zip
+│   ├── DuckTales (USA).zip
+│   ├── F-1 Race (World) (Rev 1).zip
+│   ├── Faceball 2000 (USA).zip
+│   ├── Fastest Lap (USA).zip
+│   ├── Fighting Simulator 2 in 1 - Flying Warriors (USA, Europe).zip
+│   ├── Final Fantasy Adventure (USA).zip
+│   ├── Final Fantasy Legend III (USA).zip
+│   ├── Final Fantasy Legend II (USA).zip
+│   ├── Final Fantasy Legend, The (USA).zip
+│   ├── For the Frog the Bell Tolls (Japan) [T-En by Ryanbgstl v1.0] [n].zip
+│   ├── Fortified Zone (USA, Europe).zip
+│   ├── Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced).zip
+│   ├── Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n].zip
+│   ├── Gargoyle's Quest (USA, Europe).zip
+│   ├── Ghostbusters II (USA, Europe).zip
+│   ├── Golf (World).zip
+│   ├── Great Greed (USA).zip
+│   ├── Gremlins 2 - The New Batch (World).zip
+│   ├── Hammerin' Harry (Europe).zip
+│   ├── Harvest Moon GB (USA) (SGB Enhanced).zip
+│   ├── Heiankyo Alien (USA).zip
+│   ├── James Bond 007 (USA, Europe) (SGB Enhanced).zip
+│   ├── Kid Dracula (USA, Europe).zip
+│   ├── Kid Icarus - Of Myths and Monsters (USA, Europe).zip
+│   ├── Kingdom Crusade (USA).zip
+│   ├── Kirby's Block Ball (USA, Europe) (SGB Enhanced).zip
+│   ├── Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).zip
+│   ├── Kirby's Dream Land (USA, Europe).zip
+│   ├── Kirby's Pinball Land (USA, Europe).zip
+│   ├── Kirby's Star Stacker (USA, Europe) (SGB Enhanced).zip
+│   ├── Kung-Fu Master (USA, Europe).zip
+│   ├── Kwirk - He's A-maze-ing! (USA, Europe).zip
+│   ├── Legend of the River King GB (USA) (SGB Enhanced).zip
+│   ├── Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).zip
+│   ├── Lock n' Chase ~ Lock 'n' Chase (World).zip
+│   ├── Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by LIPEMCO! Translations v1.0].zip
+│   ├── Mario's Picross (USA, Europe) (SGB Enhanced).zip
+│   ├── Maru's Mission (USA).zip
+│   ├── Mega Man - Dr. Wily's Revenge (USA).zip
+│   ├── Mega Man III (USA).zip
+│   ├── Mega Man II (USA).zip
+│   ├── Mega Man IV (USA).zip
+│   ├── Mega Man V (USA) (SGB Enhanced).zip
+│   ├── Mercenary Force (USA, Europe).zip
+│   ├── Metal Masters (USA).zip
+│   ├── Metroid II - Return of Samus (World).zip
+│   ├── Mickey Mouse - Magic Wands! (USA, Europe) (SGB Enhanced).zip
+│   ├── Mickey's Dangerous Chase (USA).zip
+│   ├── Mole Mania (USA, Europe) (SGB Enhanced).zip
+│   ├── Monster Max (Europe) (En,Fr,De,Es,It,Nl).zip
+│   ├── Montezuma's Return! (Europe) (En,Fr,De,Es,It).zip
+│   ├── Motocross Maniacs (USA).zip
+│   ├── Mystical Ninja Starring Goemon (USA) (SGB Enhanced).zip
+│   ├── Nemesis II - The Return of the Hero (Europe).zip
+│   ├── Nemesis (USA).zip
+│   ├── Ninja Boy 2 (USA, Europe).zip
+│   ├── Ninja Boy (USA, Europe).zip
+│   ├── Ninja Gaiden Shadow (USA).zip
+│   ├── Ninja Taro (USA).zip
+│   ├── Noobow (Japan) [T-En by Stardust Crusaders v1.00].zip
+│   ├── Operation C (USA).zip
+│   ├── Out of Gas (USA).zip
+│   ├── Painter Momopie (Japan) [T-En by Stardust Crusaders v1.00].zip
+│   ├── Parodius (Europe).zip
+│   ├── Penguin Wars (USA).zip
+│   ├── Picross 2 (Japan) (SGB Enhanced) [T-En by Zed v1.0].zip
+│   ├── Pinball - Revenge of the 'Gator (USA, Europe).zip
+│   ├── Pocket Bomberman (Europe) (SGB Enhanced).zip
+│   ├── Pokemon - Blue Version (USA, Europe) (SGB Enhanced).zip
+│   ├── Pokemon - Red Version (USA, Europe) (SGB Enhanced).zip
+│   ├── Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip
+│   ├── Pop'n TwinBee (Europe).zip
+│   ├── Q Billion (USA).zip
+│   ├── Quarth (USA, Europe).zip
+│   ├── Rolan's Curse II (USA).zip
+│   ├── Rolan's Curse (USA).zip
+│   ├── R-Type II (Europe).zip
+│   ├── R-Type (USA, Europe).zip
+│   ├── Skate or Die - Bad 'N Rad (USA).zip
+│   ├── SolarStriker (World).zip
+│   ├── Solomon's Club (USA).zip
+│   ├── Spanky's Quest (USA).zip
+│   ├── Spud's Adventure (USA).zip
+│   ├── Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).zip
+│   ├── Super Mario Land (World) (Rev 1).zip
+│   ├── Super R.C. Pro-Am (USA, Europe).zip
+│   ├── Sword of Hope II, The (USA).zip
+│   ├── Sword of Hope, The (USA).zip
+│   ├── Tail 'Gator (USA, Europe).zip
+│   ├── Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).zip
+│   ├── Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).zip
+│   ├── Teenage Mutant Ninja Turtles III - Radical Rescue (USA).zip
+│   ├── Tennis (World).zip
+│   ├── Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced).zip
+│   ├── Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced).zip
+│   ├── Tetris Blast (USA, Europe) (SGB Enhanced).zip
+│   ├── Tetris (World) (Rev 1).zip
+│   ├── Tiny Toon Adventures 2 - Montana's Movie Madness (USA, Europe).zip
+│   ├── Tiny Toon Adventures - Babs' Big Break (USA, Europe).zip
+│   ├── Trax (USA, Europe).zip
+│   ├── Trip World (Europe).zip
+│   ├── Vattle Giuce (Japan).zip
+│   ├── Wario Blast Featuring Bomberman! (USA, Europe) (SGB Enhanced).zip
+│   ├── Wario Land II (USA, Europe) (SGB Enhanced).zip
+│   ├── Wario Land - Super Mario Land 3 (World).zip
+│   ├── Wave Race (USA, Europe).zip
+│   ├── World Heroes 2 Jet (USA, Europe) (SGB Enhanced).zip
+│   ├── X (Japan) [T-En by Anthropogon v0.9].zip
+│   ├── Yoshi's Cookie (USA, Europe).zip
+│   └── Yoshi (USA).zip
+├── Nintendo - Game Boy Advance
+│   ├── Advance Wars 2 - Black Hole Rising (USA).zip
+│   ├── Advance Wars (USA) (Rev 1).zip
+│   ├── Alien Hominid (Europe) (En,Fr,De,Es,It).zip
+│   ├── Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).zip
+│   ├── Banjo-Kazooie - Grunty's Revenge (USA, Europe).zip
+│   ├── Boktai 2 - Solar Boy Django (USA).zip
+│   ├── Boktai - The Sun Is in Your Hand (USA).zip
+│   ├── Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).zip
+│   ├── Bruce Lee - Return of the Legend (USA).zip
+│   ├── Car Battler Joe (USA).zip
+│   ├── Castlevania - Aria of Sorrow (USA).zip
+│   ├── Castlevania - Circle of the Moon (USA).zip
+│   ├── Castlevania - Harmony of Dissonance (USA).zip
+│   ├── ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).zip
+│   ├── Crash Nitro Kart (USA).zip
+│   ├── Denki Blocks! (USA) (En,Es).zip
+│   ├── DK - King of Swing (USA).zip
+│   ├── Double Dragon Advance (USA).zip
+│   ├── Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0].zip
+│   ├── Drill Dozer (USA).zip
+│   ├── Dynasty Warriors Advance (USA).zip
+│   ├── Final Fantasy I & II - Dawn of Souls (USA).zip
+│   ├── Final Fantasy IV Advance (USA).zip
+│   ├── Final Fantasy Tactics Advance (USA).zip
+│   ├── Final Fantasy V Advance (USA).zip
+│   ├── Final Fantasy VI Advance (USA).zip
+│   ├── Final Fight One (USA).zip
+│   ├── Fire Emblem - The Binding Blade (Japan) [T-En by Dark Twilkitri Net Translation Division v2.1] [Add by Gringe v1.1.3] [n].zip
+│   ├── Fire Emblem - The Sacred Stones (USA, Australia).zip
+│   ├── Fire Emblem (USA, Australia).zip
+│   ├── F-Zero - GP Legend (USA).zip
+│   ├── F-Zero - Maximum Velocity (USA, Europe).zip
+│   ├── Game & Watch Gallery 4 (USA).zip
+│   ├── Goemon - New Age Shutsudou! (Japan).zip
+│   ├── Golden Sun - The Lost Age (USA, Europe).zip
+│   ├── Golden Sun (USA, Europe).zip
+│   ├── GT Advance - Championship Racing (USA, Europe).zip
+│   ├── Gunstar Super Heroes (USA).zip
+│   ├── Harvest Moon - Friends of Mineral Town (USA).zip
+│   ├── Harvest Moon - More Friends of Mineral Town (USA).zip
+│   ├── Iridion II (USA).zip
+│   ├── Jet Grind Radio (USA).zip
+│   ├── Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl).zip
+│   ├── Kingdom Hearts - Chain of Memories (USA).zip
+│   ├── Kirby - Nightmare in Dream Land (USA).zip
+│   ├── Kirby & The Amazing Mirror (USA).zip
+│   ├── Klonoa 2 - Dream Champ Tournament (USA).zip
+│   ├── Klonoa - Empire of Dreams (USA).zip
+│   ├── Konami Krazy Racers (USA).zip
+│   ├── Kurukuru Kururin (Europe).zip
+│   ├── Lady Sia (USA) (En,Fr,De,Es,It,Nl).zip
+│   ├── Legend of Zelda, The - A Link to the Past & Four Swords (USA).zip
+│   ├── Legend of Zelda, The - The Minish Cap (USA).zip
+│   ├── Lilo & Stitch 2 - Haemsterviel Havoc (USA).zip
+│   ├── Lilo & Stitch (USA).zip
+│   ├── Lunar Legend (USA).zip
+│   ├── Magical Vacation (Japan) [T-En by Magicalpatcher v1.0].zip
+│   ├── Mario Golf - Advance Tour (USA).zip
+│   ├── Mario Kart - Super Circuit (USA).zip
+│   ├── Mario & Luigi - Superstar Saga (USA).zip
+│   ├── Mario Pinball Land (USA, Australia).zip
+│   ├── Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).zip
+│   ├── Mario vs. Donkey Kong (USA, Australia).zip
+│   ├── Max Payne (USA).zip
+│   ├── Medabots - Metabee (USA).zip
+│   ├── Mega Man & Bass (USA).zip
+│   ├── Mega Man Battle Network 2 (USA).zip
+│   ├── Mega Man Battle Network 3 - Blue Version (USA).zip
+│   ├── Mega Man Battle Network 3 - White Version (USA).zip
+│   ├── Mega Man Battle Network 4 - Blue Moon (USA).zip
+│   ├── Mega Man Battle Network 4 - Red Sun (USA).zip
+│   ├── Mega Man Battle Network 5 - Team Colonel (USA).zip
+│   ├── Mega Man Battle Network 5 - Team Protoman (USA).zip
+│   ├── Mega Man Battle Network 6 - Cybeast Falzar (USA).zip
+│   ├── Mega Man Battle Network 6 - Cybeast Gregar (USA).zip
+│   ├── Mega Man Battle Network (USA).zip
+│   ├── Mega Man Zero 2 (USA).zip
+│   ├── Mega Man Zero 3 (USA).zip
+│   ├── Mega Man Zero 4 (USA).zip
+│   ├── Mega Man Zero (USA, Europe).zip
+│   ├── Metal Slug Advance (USA).zip
+│   ├── Metroid Fusion (USA).zip
+│   ├── Metroid - Zero Mission (USA).zip
+│   ├── Mother 3 (Japan) [T-En by Chewy & Jeffman & Tomato v1.3].zip
+│   ├── Motocross Maniacs Advance (USA) (En,Es).zip
+│   ├── Motoracer Advance (USA) (En,Fr,De,Es,It).zip
+│   ├── Mr. Driller 2 (USA).zip
+│   ├── Ninja Five-0 (USA).zip
+│   ├── Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0].zip
+│   ├── Pinball of the Dead, The (USA).zip
+│   ├── Pokemon - Emerald Version (USA, Europe).zip
+│   ├── Pokemon - FireRed Version (USA, Europe) (Rev 1).zip
+│   ├── Pokemon - LeafGreen Version (USA, Europe) (Rev 1).zip
+│   ├── Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).zip
+│   ├── Pokemon Pinball - Ruby & Sapphire (USA).zip
+│   ├── Pokemon - Ruby Version (USA, Europe) (Rev 2).zip
+│   ├── Pokemon - Sapphire Version (USA, Europe) (Rev 2).zip
+│   ├── Puyo Pop (USA) (En,Ja).zip
+│   ├── Racing Gears Advance (USA).zip
+│   ├── Rayman Advance (USA) (En,Fr,De,Es,It).zip
+│   ├── Rebelstar - Tactical Command (USA).zip
+│   ├── Rhythm Heaven Silver (Japan) [T-En by W hat Beta 13a] [n].zip
+│   ├── River City Ransom EX (USA).zip
+│   ├── Sabre Wulf (USA).zip
+│   ├── Silent Scope (USA) (En,Fr,De,Es,It).zip
+│   ├── Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).zip
+│   ├── Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).zip
+│   ├── Sonic Advance (USA) (En,Ja).zip
+│   ├── Sonic Battle (USA) (En,Ja,Fr,De,Es,It).zip
+│   ├── Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).zip
+│   ├── Spider-Man - Mysterio's Menace (USA, Europe).zip
+│   ├── Spyro 2 - Season of Flame (USA).zip
+│   ├── Spyro - Attack of the Rhynocs (USA).zip
+│   ├── Spyro - Season of Ice (USA).zip
+│   ├── Street Fighter Alpha 3 (USA).zip
+│   ├── Summon Night - Swordcraft Story 2 (USA).zip
+│   ├── Summon Night - Swordcraft Story (USA).zip
+│   ├── Super Mario Advance 2 - Super Mario World (USA, Australia).zip
+│   ├── Super Mario Advance 3 - Yoshi's Island (USA).zip
+│   ├── Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).zip
+│   ├── Super Mario Advance (USA, Europe).zip
+│   ├── Super Monkey Ball Jr. (USA).zip
+│   ├── Super Puzzle Fighter II (USA) (Rev 1).zip
+│   ├── Super Robot Taisen - Original Generation 2 (USA).zip
+│   ├── Super Robot Taisen - Original Generation (USA).zip
+│   ├── Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i].zip
+│   ├── Super Street Fighter II Turbo - Revival (USA).zip
+│   ├── Sword of Mana (USA, Australia).zip
+│   ├── Tactics Ogre - The Knight of Lodis (USA).zip
+│   ├── Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA).zip
+│   ├── Teenage Mutant Ninja Turtles (USA).zip
+│   ├── TMNT (USA) (En,Fr,Es).zip
+│   ├── Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.0].zip
+│   ├── Tony Hawk's Pro Skater 2 (USA, Europe).zip
+│   ├── Tony Hawk's Pro Skater 3 (USA, Europe).zip
+│   ├── Tony Hawk's Pro Skater 4 (USA, Europe).zip
+│   ├── Tony Hawk's Underground 2 (USA, Europe).zip
+│   ├── Tony Hawk's Underground (USA, Europe).zip
+│   ├── Ultimate Brain Games (USA, Europe).zip
+│   ├── Urban Yeti! (USA, Europe).zip
+│   ├── Virtua Tennis (USA).zip
+│   ├── V-Rally 3 (USA) (En,Fr,Es).zip
+│   ├── Wario Land 4 (USA, Europe).zip
+│   ├── WarioWare, Inc. - Mega Microgame$! (USA).zip
+│   ├── WarioWare - Twisted! (USA).zip
+│   ├── Wing Commander - Prophecy (USA).zip
+│   ├── Wings (USA).zip
+│   ├── Worms World Party (USA) (En,Fr,De,Es,It).zip
+│   ├── Yggdra Union - We'll Never Fight Alone (USA).zip
+│   └── Zone of the Enders - The Fist of Mars (USA).zip
+├── Nintendo - Game Boy Color
+│   ├── Aliens - Thanatos Encounter (USA, Europe).zip
+│   ├── Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).zip
+│   ├── Animorphs (USA).zip
+│   ├── Asterix & Obelix (Europe) (En,Fr,De,Es).zip
+│   ├── Azure Dreams (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Batman Beyond - Return of the Joker (USA).zip
+│   ├── Batman - Chaos in Gotham (USA).zip
+│   ├── Bionic Commando - Elite Forces (USA, Australia).zip
+│   ├── Blade (USA, Europe).zip
+│   ├── Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Bomberman Max - Blue Champion (USA).zip
+│   ├── Bomberman Max - Red Challenger (USA).zip
+│   ├── Bomberman Quest (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible).zip
+│   ├── Bugs Bunny in - Crazy Castle 4 (USA).zip
+│   ├── Bust-A-Move Millennium (USA, Europe).zip
+│   ├── Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).zip
+│   ├── Croc 2 (USA, Europe).zip
+│   ├── Croc (USA, Europe).zip
+│   ├── Crystalis (USA).zip
+│   ├── Dexter's Laboratory - Robot Rampage (USA, Europe).zip
+│   ├── Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).zip
+│   ├── Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).zip
+│   ├── Dragon Ball Z - Legendary Super Warriors (USA).zip
+│   ├── Dragon Warrior I & II (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Dragon Warrior III (USA).zip
+│   ├── Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It).zip
+│   ├── Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Gen the Carpenter (Japan) (SGB Enhanced) (GB Compatible) [T-En by PentarouZero v1.0] [n].zip
+│   ├── Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03].zip
+│   ├── Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt).zip
+│   ├── Hamtaro - Ham-Hams Unite! (USA).zip
+│   ├── Hands of Time (USA, Europe) (En,Fr,De,Es,It,Nl).zip
+│   ├── Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).zip
+│   ├── Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).zip
+│   ├── Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Harvest Moon 3 GBC (USA).zip
+│   ├── Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── John Romero's Daikatana (Europe) (En,Fr,It).zip
+│   ├── Jungle Book, The - Mowgli's Wild Adventure (USA) (En,Fr,De,Es,It).zip
+│   ├── Kirby - Tilt 'n' Tumble (USA).zip
+│   ├── Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).zip
+│   ├── Legend of Zelda, The - Oracle of Ages (USA, Australia).zip
+│   ├── Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip
+│   ├── Lufia - The Legend Returns (USA).zip
+│   ├── Magi Nation (USA).zip
+│   ├── Mario Golf (USA).zip
+│   ├── Mario Tennis (USA).zip
+│   ├── Mega Man Xtreme 2 (USA, Europe).zip
+│   ├── Mega Man Xtreme (USA, Europe) (GB Compatible).zip
+│   ├── Metal Gear Solid (USA).zip
+│   ├── Metal Walker (USA) (GB Compatible).zip
+│   ├── Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).zip
+│   ├── Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).zip
+│   ├── Mission - Impossible (USA) (En,Fr,Es).zip
+│   ├── Mobile Golf (Japan) [T-En by ProstatePunch & Darkshade & REON Dev Team & Marc_Max v1.1] [Vanilla Unlock].zip
+│   ├── Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Monster Rancher Explorer (USA).zip
+│   ├── Motocross Maniacs 2 (USA).zip
+│   ├── Mr. Driller (USA).zip
+│   ├── Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Pokemon - Crystal Version (USA, Europe) (Rev 1).zip
+│   ├── Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).zip
+│   ├── Pokemon Puzzle Challenge (USA, Australia).zip
+│   ├── Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) [T-En by Artemis251 & Jazz v1.0] [n].zip
+│   ├── Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).zip
+│   ├── Project S-11 (USA).zip
+│   ├── Rayman 2 (USA) (En,Fr,De,Es,It).zip
+│   ├── Rayman (USA) (En,Fr,De,Es,It,Nl).zip
+│   ├── Resident Evil Gaiden (USA).zip
+│   ├── Return of the Ninja (USA).zip
+│   ├── Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── R-Type DX (USA, Europe) (GB Compatible).zip
+│   ├── Shantae (USA).zip
+│   ├── Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible) [T-En by Higsby & SpecialAgentApe v1.2].zip
+│   ├── Super Mario Bros. Deluxe (USA, Europe) (Rev 2).zip
+│   ├── Super Robot Pinball (Japan) [T-En by Kurenaikurai & Luis16bits & Marc_max v1.0].zip
+│   ├── Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible) [T-En by Hattontown & NikcDC v0.9].zip
+│   ├── Survival Kids (USA) (SGB Enhanced) (GB Compatible).zip
+│   ├── Tetris DX (World) (SGB Enhanced) (GB Compatible).zip
+│   ├── Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).zip
+│   ├── Tomb Raider - Curse of the Sword (USA, Europe).zip
+│   ├── Tomb Raider (USA, Europe) (En,Fr,De,Es,It).zip
+│   ├── Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible).zip
+│   ├── Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es).zip
+│   ├── Turok - Rage Wars (USA, Europe) (En,Fr,De,Es).zip
+│   ├── Wacky Races (USA) (En,Fr,Es).zip
+│   ├── Wario Land 3 (World) (En,Ja).zip
+│   ├── Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).zip
+│   ├── Warlocked (USA).zip
+│   ├── Wendy - Every Witch Way (USA, Europe).zip
+│   └── Yu-Gi-Oh! - Dark Duel Stories (USA).zip
+├── Nintendo - N64
+│   ├── 007 - The World Is Not Enough (USA).zip
+│   ├── 1080 Snowboarding (Japan, USA) (En,Ja).zip
+│   ├── Bakuretsu Muteki Bangaioh (Japan).zip
+│   ├── Banjo-Kazooie (USA) (Rev 1).zip
+│   ├── Banjo-Tooie (USA).zip
+│   ├── BattleTanx - Global Assault (USA).zip
+│   ├── BattleTanx (USA).zip
+│   ├── Beetle Adventure Racing! (USA) (En,Fr,De).zip
+│   ├── Blast Corps (USA) (Rev 1).zip
+│   ├── Body Harvest (USA).zip
+│   ├── Bomberman 64 - The Second Attack! (USA).zip
+│   ├── Bomberman 64 (USA).zip
+│   ├── Castlevania - Legacy of Darkness (USA).zip
+│   ├── Castlevania (USA) (Rev 2).zip
+│   ├── Chameleon Twist 2 (USA).zip
+│   ├── Chameleon Twist (USA) (Rev 1).zip
+│   ├── Conker's Bad Fur Day (USA).zip
+│   ├── Custom Robo (Japan) [T-En by Star Trinket v1.0].zip
+│   ├── Custom Robo V2 (Japan).zip
+│   ├── Dezaemon 3D (Japan).zip
+│   ├── Diddy Kong Racing (USA) (En,Fr) (Rev 1).zip
+│   ├── Donkey Kong 64 (USA).zip
+│   ├── Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).zip
+│   ├── Excitebike 64 (USA) (Rev 1).zip
+│   ├── Extreme-G (USA).zip
+│   ├── Extreme-G XG2 (USA).zip
+│   ├── Forsaken 64 (USA).zip
+│   ├── F-Zero X (USA).zip
+│   ├── Glover (USA).zip
+│   ├── Goemon's Great Adventure (USA).zip
+│   ├── GoldenEye 007 (USA).zip
+│   ├── Harvest Moon 64 (USA).zip
+│   ├── Hybrid Heaven (USA).zip
+│   ├── Hydro Thunder (USA).zip
+│   ├── Iggy's Reckin' Balls (USA).zip
+│   ├── Indiana Jones and the Infernal Machine (USA).zip
+│   ├── Jet Force Gemini (USA).zip
+│   ├── Killer Instinct Gold (USA) (Rev 2).zip
+│   ├── Kirby 64 - The Crystal Shards (USA).zip
+│   ├── Last Legion UX (Japan) [T-En by Zoinkity v1.0].zip
+│   ├── Legend of Zelda, The - Majora's Mask (USA).zip
+│   ├── Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).zip
+│   ├── Mace - The Dark Age (USA).zip
+│   ├── Magical Tetris Challenge (USA).zip
+│   ├── Mario Golf (USA).zip
+│   ├── Mario Kart 64 (USA).zip
+│   ├── Mario Party 2 (USA).zip
+│   ├── Mario Party 3 (USA).zip
+│   ├── Mario Party (USA).zip
+│   ├── Mario Tennis (USA).zip
+│   ├── Mega Man 64 (USA).zip
+│   ├── Micro Machines 64 Turbo (USA).zip
+│   ├── Mischief Makers (USA) (Rev 1).zip
+│   ├── Mystical Ninja Starring Goemon (USA).zip
+│   ├── New Tetris, The (USA).zip
+│   ├── Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).zip
+│   ├── Paper Mario (USA).zip
+│   ├── Perfect Dark (USA) (Rev 1).zip
+│   ├── Pilotwings 64 (USA).zip
+│   ├── Pokemon Puzzle League (USA).zip
+│   ├── Pokemon Snap (USA).zip
+│   ├── Pokemon Stadium 2 (USA).zip
+│   ├── Pokemon Stadium (USA) (Rev 2).zip
+│   ├── Quest 64 (USA).zip
+│   ├── Rakugakids (Europe).zip
+│   ├── Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).zip
+│   ├── Ready 2 Rumble Boxing - Round 2 (USA).zip
+│   ├── Ready 2 Rumble Boxing (USA).zip
+│   ├── Robotron 64 (USA).zip
+│   ├── Rocket - Robot on Wheels (USA).zip
+│   ├── RR64 - Ridge Racer 64 (USA).zip
+│   ├── San Francisco Rush 2049 (USA).zip
+│   ├── Shadow Man (USA).zip
+│   ├── Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack & Ozidual & KmbTos v1.02] [n].zip
+│   ├── Snowboard Kids 2 (USA).zip
+│   ├── Snowboard Kids (USA).zip
+│   ├── SpaceStation Silicon Valley (USA) (Rev 1).zip
+│   ├── Spider-Man (USA).zip
+│   ├── Star Fox 64 (USA) (Rev 1).zip
+│   ├── Star Wars Episode I - Battle for Naboo (USA).zip
+│   ├── Star Wars Episode I - Racer (USA).zip
+│   ├── Star Wars - Rogue Squadron (USA) (Rev 1).zip
+│   ├── Star Wars - Shadows of the Empire (USA) (Rev 2).zip
+│   ├── Super Mario 64 (USA).zip
+│   ├── Super Smash Bros. (USA).zip
+│   ├── Tetrisphere (USA).zip
+│   ├── Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0].zip
+│   ├── Turok 2 - Seeds of Evil (USA) (Rev 1).zip
+│   ├── Turok 3 - Shadow of Oblivion (USA).zip
+│   ├── Turok - Dinosaur Hunter (USA) (Rev 2).zip
+│   ├── Turok - Rage Wars (USA) (Rev 1).zip
+│   ├── Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).zip
+│   ├── Vigilante 8 - 2nd Offense (USA).zip
+│   ├── Vigilante 8 (USA).zip
+│   ├── Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).zip
+│   ├── WinBack - Covert Operations (USA).zip
+│   ├── Wipeout 64 (USA).zip
+│   ├── Worms Armageddon (USA) (En,Fr,Es).zip
+│   ├── WWF No Mercy (USA) (Rev 1).zip
+│   └── Yoshi's Story (USA) (En,Ja).zip
+├── Nintendo - NES
+│   ├── 8 Eyes (USA).zip
+│   ├── Adventure Island 3 (USA).zip
+│   ├── Adventure Island II (USA).zip
+│   ├── Adventure Island (USA).zip
+│   ├── Adventures of Lolo 2 (USA).zip
+│   ├── Adventures of Lolo 3 (USA).zip
+│   ├── Adventures of Lolo (USA).zip
+│   ├── Adventures of Tom Sawyer (USA).zip
+│   ├── Alfred Chicken (USA).zip
+│   ├── Arkanoid (USA).zip
+│   ├── Arkista's Ring (USA).zip
+│   ├── Astyanax (USA).zip
+│   ├── Balloon Fight (USA).zip
+│   ├── Banana Prince (Germany) [T-En by KingMike's Translations v1.1a] [Add by Elbobelo v1.0].zip
+│   ├── Batman - Return of the Joker (USA).zip
+│   ├── Batman Returns (USA).zip
+│   ├── Batman - The Video Game (USA).zip
+│   ├── Battle of Olympus, The (USA).zip
+│   ├── Battletoads-Double Dragon (USA).zip
+│   ├── Battletoads (USA).zip
+│   ├── Best of the Best - Championship Karate (USA).zip
+│   ├── Bio Miracle Baby Upa!! (Japan) [T-En by Vice Translations v1.00] [n].zip
+│   ├── Bionic Commando (USA).zip
+│   ├── Blades of Steel (USA).zip
+│   ├── Blaster Master (USA).zip
+│   ├── Bomberman II (USA).zip
+│   ├── Bomberman (USA).zip
+│   ├── Bonk's Adventure (USA).zip
+│   ├── Break Time - The National Pool Tour (USA).zip
+│   ├── Bubble Bobble Part 2 (USA).zip
+│   ├── Bubble Bobble (USA).zip
+│   ├── Bucky O'Hare (USA).zip
+│   ├── Bugs Bunny Birthday Blowout, The (USA).zip
+│   ├── Bugs Bunny Crazy Castle, The (USA).zip
+│   ├── Burai Fighter (USA).zip
+│   ├── Captain America and the Avengers (USA).zip
+│   ├── Captain Tsubasa Vol. II - Super Striker (Japan) [T-En by Hayabusakun v1.0].zip
+│   ├── Castelian (USA).zip
+│   ├── Castlevania III - Dracula's Curse (USA).zip
+│   ├── Castlevania II - Simon's Quest (USA).zip
+│   ├── Castlevania (USA) (Rev 1).zip
+│   ├── Chip 'n Dale - Rescue Rangers 2 (USA).zip
+│   ├── Chip 'n Dale - Rescue Rangers (USA).zip
+│   ├── Chronicle of the Radia War (Japan) [T-En by Dreamless & Jair & [cx] v1.00] [n].zip
+│   ├── Clash at Demonhead (USA).zip
+│   ├── Cocoron (Japan) [T-En by Akujin & Dynamic Designs v1.0].zip
+│   ├── Conquest of the Crystal Palace (USA).zip
+│   ├── Contra (USA).zip
+│   ├── Cowboy Kid (USA).zip
+│   ├── Crackout (Europe).zip
+│   ├── Crisis Force (Japan) [T-En by Stardust Crusaders v1.0].zip
+│   ├── Crystalis (USA).zip
+│   ├── Darkwing Duck (USA).zip
+│   ├── David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).zip
+│   ├── Deja Vu (USA).zip
+│   ├── Destiny of an Emperor (USA).zip
+│   ├── Devil World (Europe).zip
+│   ├── Digital Devil Story - Megami Tensei II (Japan) (Rev A) [T-En by Stardust Crusaders v1.04].zip
+│   ├── Digital Devil Story - Megami Tensei (Japan) [T-En by EsperKnight & Stardust Crusaders & Tom v1.0] [n].zip
+│   ├── Donkey Kong Classics (USA, Europe).zip
+│   ├── Door Door (Japan).zip
+│   ├── Double Dragon III - The Sacred Stones (USA).zip
+│   ├── Double Dragon II - The Revenge (USA) (Rev 1).zip
+│   ├── Double Dragon (USA).zip
+│   ├── Downtown Special - Kunio-kun no Jidaigeki Dayo Zenin Shuugou! (J) [T Eng1.0_TechnosSamuraiTeam].zip
+│   ├── Dragon Fighter (USA).zip
+│   ├── Dragon Spirit - The New Legend (USA).zip
+│   ├── Dragon Warrior III (USA).zip
+│   ├── Dragon Warrior II (USA).zip
+│   ├── Dragon Warrior IV (USA).zip
+│   ├── Dragon Warrior (USA) (Rev 1).zip
+│   ├── Dr. Mario (Japan, USA) (Rev 1).zip
+│   ├── DuckTales 2 (USA).zip
+│   ├── DuckTales (USA).zip
+│   ├── EarthBound Beginnings (USA, Europe) (Virtual Console).zip
+│   ├── Elite (Europe) (En,Fr,De).zip
+│   ├── Excitebike (Japan, USA).zip
+│   ├── Famicom Wars (Japan) [T-En by Aka Translations v1.11].zip
+│   ├── Faxanadu (USA) (Rev 1).zip
+│   ├── Felix the Cat (USA).zip
+│   ├── Fester's Quest (USA).zip
+│   ├── Final Fantasy III (Japan) [T-En by Chaos Rush v1.3].zip
+│   ├── Final Fantasy II (Japan) [T-En by Demiforce v1.03] [Add by Chaos Rush v2.2b].zip
+│   ├── Final Fantasy (USA).zip
+│   ├── Fire Emblem Gaiden (Japan) [T-En by Artemis251 v1.01].zip
+│   ├── Fire Emblem - Shadow Dragon and the Blade of Light (Japan) [T-En by Polinym v1.2] [n].zip
+│   ├── Fire 'n Ice (USA).zip
+│   ├── Flintstones, The - The Rescue of Dino & Hoppy (USA).zip
+│   ├── Flintstones, The - The Surprise at Dinosaur Peak! (USA).zip
+│   ├── Ganbare Goemon Gaiden 2 - Treasures of the World (Japan) [T-En by Adventurous Translations v1.01] [n].zip
+│   ├── Ganbare Goemon Gaiden - The Missing Golden Pipe (Japan) [T-En by Adventurous Translations v0.99c] [n].zip
+│   ├── Ganbare Goemon! (Japan) [T-En by Spinner 8 and friends v1.01] [n].zip
+│   ├── Gargoyle's Quest II (USA).zip
+│   ├── Gemfire (USA).zip
+│   ├── Genghis Khan (USA).zip
+│   ├── Ghost Lion (USA).zip
+│   ├── Ghosts'n Goblins (USA).zip
+│   ├── G.I. Joe - A Real American Hero (USA).zip
+│   ├── Go for it! Goemon 2 (Japan) [T-En by Stardust Crusaders v2.00] [n].zip
+│   ├── Go Go! Nekketu Hockey Club - Multi-Sport Battle (Japan) [T-En by Disconnected Translations v0.99] [Add by GAFF Translations v1.00] [n].zip
+│   ├── Golgo 13 - Top Secret Episode (USA).zip
+│   ├── Goonies II, The (USA).zip
+│   ├── Gradius II (Japan).zip
+│   ├── Gradius (USA).zip
+│   ├── Gremlins 2 - The New Batch (USA).zip
+│   ├── Guardian Legend, The (USA).zip
+│   ├── Guerrilla War (USA).zip
+│   ├── Gun Nac (USA).zip
+│   ├── Gun.Smoke (USA).zip
+│   ├── Gyruss (USA).zip
+│   ├── Hammerin' Harry (Europe).zip
+│   ├── Heavy Barrel (USA).zip
+│   ├── Holy Diver (Japan) [T-En by Monaco v1.0] [Add by MottZilla R1].zip
+│   ├── Hudson's Adventure Island IV (Japan) [T-En by Zynk Oxhyde v1.0] [n].zip
+│   ├── Ice Climber (USA, Europe, Korea).zip
+│   ├── Ice Hockey (USA).zip
+│   ├── Iron Tank - The Invasion of Normandy (USA).zip
+│   ├── Ivan 'Ironman' Stewart's Super Off Road (USA).zip
+│   ├── Jackal (USA).zip
+│   ├── Jackie Chan's Action Kung Fu (USA).zip
+│   ├── Jetsons, The - Cogswell's Caper (USA).zip
+│   ├── Journey to Silius (USA).zip
+│   ├── Joy Mech Fight (Japan) [T-En by AlanMidas joy.mech] [n].zip
+│   ├── Just Breed (Japan) [T-En by Stealth Translations v1.00].zip
+│   ├── Kabuki - Quantum Fighter (USA).zip
+│   ├── Kaiketsu Yancha Maru 2 - Karakuri Land (Japan) [T-En by Derrick Sobodash v1.2].zip
+│   ├── Kickle Cubicle (USA).zip
+│   ├── KickMaster (USA).zip
+│   ├── Kid Dracula (World) (Castlevania Anniversary Collection).zip
+│   ├── Kid Icarus (USA, Europe) (Rev 1).zip
+│   ├── Kid Klown in Night Mayor World (USA).zip
+│   ├── Kid Niki 3 (Japan) [T-En by Suicidal Translations v1.00] [Add by MottZilla v1.0] [Add by Proveaux v1.0] [n].zip
+│   ├── Kirby's Adventure (USA) (Rev 1).zip
+│   ├── Kiwi Kraze - A Bird-Brained Adventure! (USA).zip
+│   ├── Klax (USA) (Unl).zip
+│   ├── Krazy Kreatures (USA) (Rev A) (Unl).zip
+│   ├── Krion Conquest, The (USA).zip
+│   ├── Kung-Fu Heroes (USA).zip
+│   ├── Kung Fu (Japan, USA).zip
+│   ├── Legacy of the Wizard (USA).zip
+│   ├── Legendary Wings (USA).zip
+│   ├── Legend of Fuma, The [Japan] [T-En by Nebulous Translations v1.01] [n].zip
+│   ├── Legend of Zelda, The (USA) (Rev 1).zip
+│   ├── Life Force (USA) (Rev 1).zip
+│   ├── Little Nemo - The Dream Master (USA).zip
+│   ├── Little Ninja Brothers (USA).zip
+│   ├── Little Samson (USA).zip
+│   ├── Lone Ranger, The (USA).zip
+│   ├── Low G Man - The Low Gravity Man (USA).zip
+│   ├── Mafat Conspiracy, The (USA).zip
+│   ├── Magic of Scheherazade, The (USA).zip
+│   ├── Maniac Mansion (USA).zip
+│   ├── Mappy-Land (USA).zip
+│   ├── Marble Madness (USA).zip
+│   ├── M.C. Kids (USA).zip
+│   ├── Mega Man 2 (USA).zip
+│   ├── Mega Man 3 (USA).zip
+│   ├── Mega Man 4 (USA) (Rev 1).zip
+│   ├── Mega Man 5 (USA).zip
+│   ├── Mega Man 6 (USA).zip
+│   ├── Mega Man (USA).zip
+│   ├── Mendel Palace (USA).zip
+│   ├── Metal Gear (USA).zip
+│   ├── Metal Slader Glory (Japan) [T-En by Stardust Crusaders v1.0].zip
+│   ├── Metal Storm (USA).zip
+│   ├── Metroid (USA).zip
+│   ├── Micro Machines (USA) (Unl).zip
+│   ├── Mighty Final Fight (USA).zip
+│   ├── Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1).zip
+│   ├── Mitsume ga Tooru (Japan) [T-En by The Spoony Bard v1.01].zip
+│   ├── Monopoly (USA).zip
+│   ├── Monster in My Pocket (USA).zip
+│   ├── Monster Party (USA).zip
+│   ├── Moon Crystal (Japan) [T-En by Alex W. Jackson v1.0].zip
+│   ├── Mr. Gimmick (Europe).zip
+│   ├── Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n].zip
+│   ├── Nekketsu! Street Basket - Go for it, Dunk Heroes! (Japan) [T-En by Farid v1.2] [n].zip
+│   ├── NES Open Tournament Golf (USA).zip
+│   ├── New Ghostbusters II (Europe).zip
+│   ├── Ninja Gaiden III - The Ancient Ship of Doom (USA).zip
+│   ├── Ninja Gaiden II - The Dark Sword of Chaos (USA).zip
+│   ├── Ninja Gaiden (USA).zip
+│   ├── Nintendo World Cup (USA) (Rev 1).zip
+│   ├── Noah's Ark (Europe).zip
+│   ├── Nobunaga's Ambition II (USA).zip
+│   ├── Nobunaga's Ambition (USA).zip
+│   ├── North and South (USA).zip
+│   ├── Over Horizon (Europe).zip
+│   ├── Palamedes (USA).zip
+│   ├── Panic Restaurant (USA).zip
+│   ├── Parodius (Europe).zip
+│   ├── Perman 2 - Down with the Secret Madou Society! (Japan) [T-En by KingMike's Translations v1.0] [Add by FlashPV] [n].zip
+│   ├── Perman - Return the Space Saucer! (Japan) [T-En by Zynk Oxhyde v2.0] [n].zip
+│   ├── Pinball Quest (USA).zip
+│   ├── Pirates! (USA).zip
+│   ├── Pizza Pop! (Japan) [T-En by Pacnsacdave v1.0].zip
+│   ├── Power Blade 2 (USA).zip
+│   ├── Power Blade (USA).zip
+│   ├── Princess Tomato in the Salad Kingdom (USA).zip
+│   ├── Pro Wrestling (USA) (Rev 1).zip
+│   ├── QIX (USA).zip
+│   ├── Raging Fire - Recca (Japan) [T-En by Aeon Genesis v1.00] [n].zip
+│   ├── Rainbow Islands - Bubble Bobble 2 (Europe).zip
+│   ├── Rampart (USA) (Jaleco).zip
+│   ├── R.C. Pro-Am II (USA).zip
+│   ├── R.C. Pro-Am (USA) (Rev 1).zip
+│   ├── Rescue - The Embassy Mission (USA).zip
+│   ├── Ring King (USA).zip
+│   ├── River City Ransom (USA).zip
+│   ├── Rockin' Kats (USA).zip
+│   ├── Rodland (Europe).zip
+│   ├── Rollergames (USA).zip
+│   ├── Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).zip
+│   ├── Romance of the Three Kingdoms II (USA).zip
+│   ├── Romance of the Three Kingdoms (USA).zip
+│   ├── Rush'n Attack (USA).zip
+│   ├── Rygar (USA) (Rev 1).zip
+│   ├── Samurai Pizza Cats (Japan) [T-En by Vice Translations v1.01] [US adaptation] [n].zip
+│   ├── S.C.A.T. - Special Cybernetic Attack Team (USA).zip
+│   ├── Shadowgate (USA).zip
+│   ├── Shadow of the Ninja (USA).zip
+│   ├── Shatterhand (USA).zip
+│   ├── Side Pocket (USA).zip
+│   ├── Silk Worm (USA).zip
+│   ├── Sky Kid (USA).zip
+│   ├── Smash T.V. (USA).zip
+│   ├── Snake Rattle n Roll (USA).zip
+│   ├── Snake's Revenge (USA).zip
+│   ├── Solomon's Key (USA).zip
+│   ├── Splatter House - Super Deformed (Japan) [T-En by Spinner 8 and friends v2.00] [n].zip
+│   ├── Spot - The Video Game (USA).zip
+│   ├── StarTropics (USA).zip
+│   ├── Star Wars (Japan) (Namco) [T-En by Gil Galad v1.10].zip
+│   ├── Super C (USA).zip
+│   ├── Super Dodge Ball (USA).zip
+│   ├── Super Mario Bros. 2 (Japan) (En).zip
+│   ├── Super Mario Bros. 2 (USA) (Rev 1).zip
+│   ├── Super Mario Bros. 3 (USA) (Rev 1).zip
+│   ├── Super Mario Bros. (World).zip
+│   ├── Super Spike V'Ball (USA).zip
+│   ├── Super Spy Hunter (USA).zip
+│   ├── Sweet Home (Japan) [T-En by TheSiege v2.0] [n].zip
+│   ├── Sword Master (USA).zip
+│   ├── Tecmo Bowl (USA) (Rev 1).zip
+│   ├── Tecmo Super Bowl (USA).zip
+│   ├── Tecmo World Wrestling (USA).zip
+│   ├── Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).zip
+│   ├── Teenage Mutant Ninja Turtles II - The Arcade Game (USA).zip
+│   ├── Teenage Mutant Ninja Turtles (USA).zip
+│   ├── Terra Cresta (USA).zip
+│   ├── Tetris 2 (USA).zip
+│   ├── Tetris (USA).zip
+│   ├── Tiny Toon Adventures 2 - Trouble in Wackyland (USA).zip
+│   ├── Tiny Toon Adventures (USA).zip
+│   ├── Toki (USA).zip
+│   ├── Tombs & Treasure (USA).zip
+│   ├── Town & Country Surf Designs - Thrilla's Surfari (USA).zip
+│   ├── Town & Country Surf Designs - Wood & Water Rage (USA).zip
+│   ├── TwinBee 3 - The Aimless Demon King (Japan) [T-En by Demiforce & Stardust Crusaders v1.01] [n].zip
+│   ├── Ufouria - The Saga (Europe).zip
+│   ├── Ultima - Quest of the Avatar (USA).zip
+│   ├── Vice - Project Doom (USA).zip
+│   ├── Wacky Races (USA).zip
+│   ├── Wai Wai World 2 - SOS!! Parsley Castle (Japan) [T-En by Vice Translations v1.01] [Add by Chronix v1.0] [n].zip
+│   ├── Wai Wai World (Japan) [T-En by Zynk Oxhyde v2.2] [n].zip
+│   ├── Wario's Woods (USA).zip
+│   ├── Whomp 'Em (USA).zip
+│   ├── Willow (USA).zip
+│   ├── Wrath of the Black Manta (USA) (Rev 1).zip
+│   ├── Xexyz (USA).zip
+│   ├── Yoshi's Cookie (USA).zip
+│   ├── Young Indiana Jones Chronicles, The (USA).zip
+│   ├── Zelda II - The Adventure of Link (USA).zip
+│   ├── Zoda's Revenge - StarTropics II (USA).zip
+│   └── Zombie Nation (USA).zip
+└── Nintendo - SNES
+    ├── ActRaiser 2 (USA).zip
+    ├── ActRaiser (USA).zip
+    ├── Adventures of Batman & Robin, The (USA).zip
+    ├── Aerobiz Supersonic (USA).zip
+    ├── Aerobiz (USA).zip
+    ├── Aero Fighters (USA).zip
+    ├── Aladdin (USA).zip
+    ├── Alien 3 (USA) (Rev 1).zip
+    ├── Alien vs Predator (USA).zip
+    ├── Amazing Spider-Man, The - Lethal Foes (Japan) [T-En by Gorgyrip v1.0].zip
+    ├── American Tail, An - Fievel Goes West (USA).zip
+    ├── Animaniacs (USA).zip
+    ├── Arcana (USA).zip
+    ├── Ardy Lightfoot (USA).zip
+    ├── Arkanoid - Doh It Again (USA).zip
+    ├── Axelay (USA).zip
+    ├── Bahamut Lagoon (Japan) [T-En by Tom & Near v1.2].zip
+    ├── Bassin's Black Bass (USA).zip
+    ├── BASS Masters Classic - Pro Edition (USA).zip
+    ├── Batman Returns (USA).zip
+    ├── Best of the Best - Championship Karate (USA).zip
+    ├── Biker Mice from Mars (USA).zip
+    ├── BioMetal (USA).zip
+    ├── Blackthorne (USA).zip
+    ├── BlaZeon - The Bio-Cyborg Challenge (USA).zip
+    ├── Bonkers (USA).zip
+    ├── Boxing Legends of the Ring (USA).zip
+    ├── Brain Lord (USA).zip
+    ├── Breath of Fire II (USA).zip
+    ├── Breath of Fire (USA).zip
+    ├── Bugs Bunny - Rabbit Rampage (USA).zip
+    ├── Bust-A-Move (USA).zip
+    ├── Cacoma Knight in Bizyland (USA).zip
+    ├── Cannon Fodder (Europe).zip
+    ├── Castlevania - Dracula X (USA).zip
+    ├── Choplifter III - Rescue-Survive (USA).zip
+    ├── Chrono Trigger (USA).zip
+    ├── Chuck Rock (USA).zip
+    ├── Clock Tower (Japan) [T-En by Aeon Genesis v1.01].zip
+    ├── Clue (USA).zip
+    ├── Contra III - The Alien Wars (USA).zip
+    ├── Cool Spot (USA).zip
+    ├── Cybernator (USA).zip
+    ├── Daffy Duck - The Marvin Missions (USA).zip
+    ├── Death and Return of Superman, The (USA) (Rev 1).zip
+    ├── Demon's Crest (USA).zip
+    ├── Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).zip
+    ├── Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip
+    ├── Donkey Kong Country (USA) (Rev 2).zip
+    ├── Dragon Ball Z - Hyper Dimension (Japan) [T-En by Twilight Translations v1.00].zip
+    ├── Dragon Ball Z - La Legende Saien (France).zip
+    ├── Dragon Ball Z - Super Saiya Densetsu (Japan) (Rev 1) [T-En by Klepto Software v1.02].zip
+    ├── Dragon Quest III - And into the Legend... (Japan) [T-En by DQ Translations v1.1] [n].zip
+    ├── Dragon Quest I & II (Japan) [T-En by RPGOne v2.0 DQ] [Add by Mziab v1.0].zip
+    ├── Dragon Quest VI - Realms of Revelation (Japan) [T-En by NoPrgress v0.90b2] [n].zip
+    ├── Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DeJap & Partial Translations v2.01].zip
+    ├── Dragon View (USA).zip
+    ├── EarthBound (USA).zip
+    ├── Earthworm Jim 2 (USA).zip
+    ├── Earthworm Jim (USA).zip
+    ├── E.V.O. - Search for Eden (USA).zip
+    ├── Faceball 2000 (USA).zip
+    ├── Fatal Fury 2 (USA).zip
+    ├── Fatal Fury Special (USA).zip
+    ├── Fatal Fury (USA).zip
+    ├── Final Fantasy III (USA) (Rev 1).zip
+    ├── Final Fantasy II (USA) (Rev 1).zip
+    ├── Final Fantasy - Mystic Quest (USA) (Rev 1).zip
+    ├── Final Fantasy V (Japan) [T-En by RPGe v1.10] [Add by Spooniest v2.1] [Legend of the Crystals].zip
+    ├── Fire Emblem - Mystery of the Emblem (Japan) [T-En by RPGuy96 & VincentASM v0.98] [Add by Quirino v0.14] [Add by RobertTheSable v0.22] [n].zip
+    ├── Fire Emblem - Seisen no Keifu (Japan) [T-En by Dark Twilkitri Net v0.87g] [Add by Gharnef v1.0] [i].zip
+    ├── Fire Emblem - Thracia 776 (Japan) [T-En by Cirosan v1.04] [Add by Miacis v1.08].zip
+    ├── Firemen, The (Europe) (En,Fr,De).zip
+    ├── Firepower 2000 (USA).zip
+    ├── FireStriker (USA).zip
+    ├── First Samurai (USA).zip
+    ├── Flashback - The Quest for Identity (USA) (En,Fr,De).zip
+    ├── Flintstones, The - The Treasure of Sierra Madrock (USA).zip
+    ├── Front Mission (Japan) [T-En by FH v1.0b].zip
+    ├── Front Mission Series - Gun Hazard (Japan) [T-En by Aeon Genesis v1.01].zip
+    ├── F-Zero (USA).zip
+    ├── Ganpuru - Gunman's Proof (Japan) [T-En by Aeon Genesis v1.03].zip
+    ├── Gemfire (USA).zip
+    ├── Genghis Khan II - Clan of the Gray Wolf (USA).zip
+    ├── Go for it! Goemon 2 - The Strange General McGuinness (Japan) [T-En by DDSTranslation v3.0] [n].zip
+    ├── Go for it! Goemon 3 - The Mecha Leg Hold of Jurokube Shishi (Japan) [T-En by DDSTranslation v4.0] [n].zip
+    ├── Go for it! Goemon - The Twinkling Journey - The Reason I became a Dancer (Japan) [T-En by DDSTranslation v3.0] [n].zip
+    ├── Gokujou Parodius (Japan).zip
+    ├── Goof Troop (USA).zip
+    ├── Gradius III (USA).zip
+    ├── Great Circus Mystery Starring Mickey & Minnie, The (USA).zip
+    ├── Hagane - The Final Conflict (USA).zip
+    ├── Hammer Lock Wrestling (USA).zip
+    ├── Harley's Humongous Adventure (USA).zip
+    ├── Harvest Moon (USA).zip
+    ├── Humans, The (Europe).zip
+    ├── HyperZone (USA).zip
+    ├── Illusion of Gaia (USA).zip
+    ├── Indiana Jones' Greatest Adventures (USA).zip
+    ├── Inindo - Way of the Ninja (USA).zip
+    ├── Inspector Gadget (USA).zip
+    ├── International Superstar Soccer Deluxe (USA).zip
+    ├── Jikkyou Oshaberi Parodius (Japan).zip
+    ├── Jim Lee's WildC.A.T.S - Covert-Action-Teams (USA).zip
+    ├── Joe & Mac 2 - Lost in the Tropics (USA).zip
+    ├── Joe & Mac (USA).zip
+    ├── Jungle Book, The (USA).zip
+    ├── Jungle Strike (USA).zip
+    ├── Jurassic Park (USA) (Rev 1).zip
+    ├── Ken Griffey Jr.'s Winning Run (USA).zip
+    ├── Kid Klown in Crazy Chase (USA).zip
+    ├── Killer Instinct (USA) (Rev 1).zip
+    ├── King Arthur's World (USA).zip
+    ├── King of Demons (Japan) [T-En by Aeon Genesis v1.01] [n].zip
+    ├── King of Dragons (USA).zip
+    ├── King of the Monsters 2 (USA).zip
+    ├── King of the Monsters (USA).zip
+    ├── Kirby's Avalanche (USA).zip
+    ├── Kirby's Dream Course (USA).zip
+    ├── Kirby's Dream Land 3 (USA).zip
+    ├── Kirby Super Star (USA).zip
+    ├── Knights of the Round (USA).zip
+    ├── Legend of the Mystical Ninja, The (USA).zip
+    ├── Legend of Zelda, The - A Link to the Past (USA).zip
+    ├── Legend (USA).zip
+    ├── Liberty or Death (USA).zip
+    ├── Lion King, The (USA).zip
+    ├── Live A Live (Japan) [T-En by Aeon Genesis v2.00 Deluxe].zip
+    ├── Lord of Darkness (USA).zip
+    ├── Lost Vikings 2 (USA).zip
+    ├── Lost Vikings, The (USA).zip
+    ├── Lucky Luke (Europe) (En,Fr,De,Es).zip
+    ├── Lufia II - Rise of the Sinistrals (USA).zip
+    ├── Lufia & the Fortress of Doom (USA).zip
+    ├── Madden NFL '94 (USA).zip
+    ├── Magical Pop'n (Japan) [T-En by Aeon Genesis v1.01].zip
+    ├── Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).zip
+    ├── Magic Sword (USA).zip
+    ├── Marvel Super Heroes in War of the Gems (USA).zip
+    ├── Mask, The (USA).zip
+    ├── Maui Mallard in Cold Shadow (USA).zip
+    ├── Mega Man 7 (USA).zip
+    ├── Mega Man Soccer (USA).zip
+    ├── Mega Man X2 (USA).zip
+    ├── Mega Man X3 (USA).zip
+    ├── Mega Man X (USA) (Rev 1).zip
+    ├── Metal Combat - Falcon's Revenge (USA).zip
+    ├── Metal Marines (USA).zip
+    ├── Metal Warriors (USA).zip
+    ├── Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).zip
+    ├── Mickey's Ultimate Challenge (USA).zip
+    ├── Might and Magic II (Europe).zip
+    ├── Might and Magic III - Isles of Terra (USA).zip
+    ├── Mighty Morphin Power Rangers - The Fighting Edition (USA).zip
+    ├── Mighty Morphin Power Rangers - The Movie (USA).zip
+    ├── Mighty Morphin Power Rangers (USA).zip
+    ├── Mobile Suit Gundam Wing - Endless Duel (Japan) [T-En by Aeon Genesis v1.00] [n].zip
+    ├── Monopoly (USA) (Rev 1).zip
+    ├── Mortal Kombat II (USA) (Rev 1).zip
+    ├── Mortal Kombat (USA) (Rev 1).zip
+    ├── Musya - The Classic Japanese Tale of Horror (USA).zip
+    ├── Mysterious Dungeon 2 - Shiren the Wanderer (Japan) [T-En by Aeon Genesis v1.00] [n].zip
+    ├── NBA Jam - Tournament Edition (USA).zip
+    ├── New Horizons (USA).zip
+    ├── NHL '94 (USA).zip
+    ├── Ninjawarriors (USA).zip
+    ├── Nobunaga's Ambition (USA).zip
+    ├── Nosferatu (USA).zip
+    ├── Ogre Battle - The March of the Black Queen (USA).zip
+    ├── On the Ball (USA).zip
+    ├── Operation Logic Bomb - The Ultimate Search & Destroy (USA).zip
+    ├── Out of This World (USA).zip
+    ├── Pac-Man 2 - The New Adventures (USA).zip
+    ├── Paladin's Quest (USA).zip
+    ├── Parodius (Europe).zip
+    ├── Phalanx (USA).zip
+    ├── Phantom 2040 (USA).zip
+    ├── Pilotwings (USA).zip
+    ├── Pinocchio (USA).zip
+    ├── Plok (USA).zip
+    ├── Pocky & Rocky 2 (USA).zip
+    ├── Pocky & Rocky (USA).zip
+    ├── Pop'n TwinBee (Europe).zip
+    ├── Pop'n TwinBee - Rainbow Bell Adventures (Europe).zip
+    ├── Populous II - Trials of the Olympian Gods (Europe).zip
+    ├── Populous (USA).zip
+    ├── Prehistorik Man (USA) (En,Fr,Es).zip
+    ├── P.T.O. II - Pacific Theater of Operations (USA).zip
+    ├── P.T.O. - Pacific Theater of Operations (USA).zip
+    ├── Push-Over (USA).zip
+    ├── Putty Squad (Europe).zip
+    ├── Radical Rex (USA).zip
+    ├── Rampart (USA).zip
+    ├── Rendering Ranger R2 (Japan) (En).zip
+    ├── Riddick Bowe Boxing (USA).zip
+    ├── RoboCop versus The Terminator (USA).zip
+    ├── Robotrek (USA).zip
+    ├── Rockman & Forte (Japan) [T-En by Aeon Genesis v1.00].zip
+    ├── Rock N' Roll Racing (USA).zip
+    ├── Rocky Rodent (USA).zip
+    ├── Romance of the Three Kingdoms III - Dragon of Destiny (USA).zip
+    ├── Romance of the Three Kingdoms II (USA).zip
+    ├── Romance of the Three Kingdoms IV - Wall of Fire (USA).zip
+    ├── R-Type III (USA).zip
+    ├── Run Saber (USA).zip
+    ├── Saturday Night Slam Masters (USA).zip
+    ├── Scooby-Doo Mystery (USA).zip
+    ├── Secret of Evermore (USA).zip
+    ├── Secret of Mana (USA).zip
+    ├── Shadowrun (USA).zip
+    ├── Shanghai II - Dragon's Eye (USA).zip
+    ├── Shien's Revenge (USA).zip
+    ├── Shin Megami Tensei II (Japan) [T-En by Aeon Genesis v1.00].zip
+    ├── Shin Megami Tensei (Japan) [T-En by Aeon Genesis v1.00] [Add by Orden v1.0].zip
+    ├── Side Pocket (USA).zip
+    ├── Sid Meier's Civilization (USA).zip
+    ├── SimAnt - The Electronic Ant Colony (USA).zip
+    ├── SimCity 2000 - The Ultimate City Simulator (USA).zip
+    ├── SimCity (USA).zip
+    ├── Skyblazer (USA).zip
+    ├── Smash Tennis (Europe).zip
+    ├── Soldiers of Fortune (USA).zip
+    ├── Sonic Blast Man II (USA).zip
+    ├── Sonic Blast Man (USA).zip
+    ├── S.O.S - Sink or Swim (USA).zip
+    ├── Soul Blazer (USA).zip
+    ├── Space Megaforce (USA).zip
+    ├── Spanky's Quest (USA).zip
+    ├── Sparkster (USA).zip
+    ├── Speed Racer (USA).zip
+    ├── Spider-Man - Venom - Maximum Carnage (USA).zip
+    ├── Spindizzy Worlds (USA).zip
+    ├── Star Fox 2 (USA, Europe).zip
+    ├── Star Fox (USA) (Rev 2).zip
+    ├── Star Ocean (Japan) [T-En by DeJap v1.0].zip
+    ├── Street Fighter Alpha 2 (USA).zip
+    ├── Street Fighter II Turbo (USA) (Rev 1).zip
+    ├── Strike Gunner S.T.G (USA).zip
+    ├── Stunt Race FX (USA) (Rev 1).zip
+    ├── Sunset Riders (USA).zip
+    ├── Super Adventure Island II (USA).zip
+    ├── Super Adventure Island (USA).zip
+    ├── Super Bomberman 2 (USA).zip
+    ├── Super Bomberman 3 (Europe).zip
+    ├── Super Bomberman (USA).zip
+    ├── Super Bonk (USA).zip
+    ├── Super Bowling (USA).zip
+    ├── Super Buster Bros. (USA) (Rev 1).zip
+    ├── Super Castlevania IV (USA).zip
+    ├── Super Double Dragon (USA).zip
+    ├── Super Famicom Wars (Japan) (NP) [T-En by Optiroc v1.1].zip
+    ├── Super Ghouls 'N Ghosts (USA).zip
+    ├── Super Mario All-Stars (USA).zip
+    ├── Super Mario Kart (USA).zip
+    ├── Super Mario RPG - Legend of the Seven Stars (USA).zip
+    ├── Super Mario World 2 - Yoshi's Island (USA) (Rev 1).zip
+    ├── Super Mario World (USA).zip
+    ├── Super Metroid (Japan, USA) (En,Ja).zip
+    ├── Super Morph (Europe).zip
+    ├── Super Ninja Boy (USA).zip
+    ├── Super Off Road (USA).zip
+    ├── Super Punch-Out!! (USA).zip
+    ├── Super R-Type (USA).zip
+    ├── Super Smash T.V. (USA).zip
+    ├── Super Star Wars - Return of the Jedi (USA) (Rev 1).zip
+    ├── Super Star Wars - The Empire Strikes Back (USA) (Rev 1).zip
+    ├── Super Star Wars (USA) (Rev 1).zip
+    ├── Super Street Fighter II (USA) (Rev 1).zip
+    ├── Super Tennis (USA).zip
+    ├── Super Turrican 2 (USA).zip
+    ├── Super Turrican (USA).zip
+    ├── SWAT Kats - The Radical Squadron (USA).zip
+    ├── Syndicate (USA).zip
+    ├── Tactics Ogre - Let Us Cling Together (Japan) (Rev 2) [T-En by Aeon Genesis v1.00b].zip
+    ├── Tales of Phantasia (Japan) [T-En by DeJap v1.2].zip
+    ├── Tecmo Super Bowl III - Final Edition (USA).zip
+    ├── Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).zip
+    ├── Teenage Mutant Ninja Turtles - Tournament Fighters (USA).zip
+    ├── Terranigma (Europe).zip
+    ├── Tetris 2 (USA) (Rev 1).zip
+    ├── Tetris Attack (USA) (En,Ja).zip
+    ├── Tetris & Dr. Mario (USA).zip
+    ├── Tiny Toon Adventures - Buster Busts Loose! (USA).zip
+    ├── Tiny Toon Adventures - Wacky Sports Challenge (USA).zip
+    ├── Top Gear 2 (USA).zip
+    ├── Top Gear 3000 (USA).zip
+    ├── Top Gear (USA).zip
+    ├── Torneco no Daibouken - Fushigi no Dungeon (Japan) [T-En by Dynamic Designs v0.99].zip
+    ├── Total Carnage (USA).zip
+    ├── Toy Story (USA).zip
+    ├── Trials of Mana (World) (Rev 1) (Collection of Mana).zip
+    ├── Troddlers (USA).zip
+    ├── True Lies (USA).zip
+    ├── Turn and Burn - No-Fly Zone (USA).zip
+    ├── Twisted Tales of Spike McFang, The (USA).zip
+    ├── Ultima - Runes of Virtue II (USA).zip
+    ├── Ultimate Mortal Kombat 3 (USA).zip
+    ├── Ultima - The Black Gate (USA).zip
+    ├── Ultima - The False Prophet (USA).zip
+    ├── Uniracers (USA).zip
+    ├── U.N. Squadron (USA).zip
+    ├── Urban Strike (USA).zip
+    ├── Utopia - The Creation of a Nation (USA).zip
+    ├── Vegas Stakes (USA).zip
+    ├── Violinist of Hameln, The (Japan) [T-En by J2e Translations v1.00] [n].zip
+    ├── Wario's Woods (USA).zip
+    ├── WeaponLord (USA).zip
+    ├── Where in the World Is Carmen Sandiego (USA) (En,Fr,De,Es,It).zip
+    ├── Whirlo (Europe).zip
+    ├── Whizz (USA).zip
+    ├── Wild Guns (USA).zip
+    ├── Wild Snake (USA).zip
+    ├── Wing Commander - The Secret Missions (USA).zip
+    ├── Wing Commander (USA).zip
+    ├── Wizardry V - Heart of the Maelstrom (USA).zip
+    ├── WWF Raw (USA).zip
+    ├── WWF Royal Rumble (USA).zip
+    ├── WWF WrestleMania - The Arcade Game (USA).zip
+    ├── X-Kaliber 2097 (USA).zip
+    ├── X-Men - Mutant Apocalypse (USA).zip
+    ├── Yoshi's Cookie (USA).zip
+    ├── Young Merlin (USA).zip
+    ├── Ys III - Wanderers from Ys (USA).zip
+    ├── Zombies Ate My Neighbors (USA).zip
+    └── Zoop (USA).zip
+
+9 directories, 1647 files
